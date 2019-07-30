@@ -9,6 +9,9 @@ verify_ssl = true
 [packages]
 django = "*"
 pymysql = "*"
+wmi = "*"
+pypiwin32 = "*"
+djangorestframework = "*"
 
 [requires]
 python_version = "3.7"
