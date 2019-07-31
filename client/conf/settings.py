@@ -8,7 +8,7 @@
 Params = {
     "server": "127.0.0.1",
     "port": 8000,
-    "url": "/assets/report/",
+    "url": "/api/v1/assets/",
     "request_timeout": 10
 }
 
